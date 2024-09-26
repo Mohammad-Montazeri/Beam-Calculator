@@ -28,5 +28,5 @@ Here's the calculated and plotted results for a simple case study of a beam of $
 ![Moment](Pics/result/tau_y.png)
 ![Moment](Pics/result/tau_xy.png)
 ![Moment](Pics/result/sigma.png)
-![Moment](Pics/result/latex.png)
 ![Moment](Pics/result/plt.png)
+![Moment](Pics/result/latex.png)
