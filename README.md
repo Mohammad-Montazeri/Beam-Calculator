@@ -19,6 +19,8 @@ This repository represents the result of a short collaboration of a two-member g
 
 # Results
 Here's the calculated and plotted results for a simple case study of a beam of $2 m$ long, under a constant load of $F=-10 \frac{kN}{m}$ from $x=0.5 m$ to $x=1.5 m$ .
+
+
 ![Moment](Pics/result/loads1.png)
 ![Moment](Pics/result/loads2.png)
 ![Moment](Pics/result/torque.png)
